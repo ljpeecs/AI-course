@@ -8,8 +8,9 @@
 
 #include <iostream>
 #include <iomanip>
-#include <cmath>
+#include <cstdlib>
 #include <ctime>
+#include <cmath>
 #include <algorithm>
 #define SIZE 5
 using namespace std;
